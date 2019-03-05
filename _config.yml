@@ -1,3 +1,22 @@
+Skip to content
+
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @oleksandrilchuk Sign out
+1
+0 1,372 oleksandrilchuk/oleksandrilchuk.github.io
+forked from sergiokopplin/indigo
+ Code  Pull requests 0  Projects 0  Insights  Settings
+oleksandrilchuk.github.io/_config.yml
+@oleksandrilchuk oleksandrilchuk Update config.
+9f615e9  2 hours ago
+@sergiokopplin @sylvainmetayer @jehartzog @rowmatrix @vhbsouza @oleksandrilchuk @mehmandarov @DzikowskiW @antenore @tombusby @rootulp @siddhantjain @f3rno @jayrav13 @dwlfrth @brenodamata @agyorev
+Executable File  116 lines (91 sloc)  2.82 KB
+
 # main text of home
 name: Oleksandr Ilchuk
 bio: A Man who travels the world eating noodles
@@ -16,6 +35,11 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://ilchuk.dev
+<<<<<<< HEAD
+=======
+# your url: http://USERNAME.github.io
+
+>>>>>>> df4bc83fb3804976ef1e25b18f317437813409bf
 permalink: /:title/
 
 # To enable google analytics, supply your token below
@@ -33,15 +57,23 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
+<<<<<<< HEAD
 twitter: hu_surfer
 github: oleksandrilchuk
 email: olexandr.ilchuk@gmail.com
+=======
+twitter: mytwitter
+>>>>>>> df4bc83fb3804976ef1e25b18f317437813409bf
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
+<<<<<<< HEAD
+=======
+github: oleksandrilchuk
+>>>>>>> df4bc83fb3804976ef1e25b18f317437813409bf
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,9 +82,16 @@ email: olexandr.ilchuk@gmail.com
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
+<<<<<<< HEAD
 
 authors:
     oleksandrilchuk:
+=======
+email: olexandr.ilchuk@gmail.com
+
+authors:
+    johndoe:
+>>>>>>> df4bc83fb3804976ef1e25b18f317437813409bf
         name: Oleksandr Ilchuk
         bio: A Man who travels the world eating noodles
         external-image: false
@@ -69,10 +108,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# if you don't need "about" or "blog", comment them out below
-blog: true
 projects: true
+
+# if you don't need "about" or "blog", comment them out below
 about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -110,3 +150,17 @@ compress_html:
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
 © 2019 GitHub, Inc.
+<<<<<<< HEAD
+=======
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+>>>>>>> df4bc83fb3804976ef1e25b18f317437813409bf
