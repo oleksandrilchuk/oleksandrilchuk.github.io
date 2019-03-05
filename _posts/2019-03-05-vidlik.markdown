@@ -2,7 +2,7 @@
 title: "Vidlik"
 layout: post
 date: 2019-03-05 12:00
-tag: timer, vidlik
+tag: [timer, vidlik]
 image: https://i.ytimg.com/vi/yRHwWGO_A48/maxresdefault.jpg
 headerImage: true
 projects: true
