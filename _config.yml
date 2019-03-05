@@ -17,7 +17,6 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 url: https://ilchuk.dev
-
 permalink: /:title/
 
 # To enable google analytics, supply your token below
@@ -59,7 +58,7 @@ authors:
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-#       twitter: hu_surfer
+#       twitter: oleksandrilchuk
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -111,3 +110,4 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+© 2019 GitHub, Inc.
