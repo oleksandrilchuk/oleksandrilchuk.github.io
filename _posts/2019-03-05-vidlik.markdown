@@ -13,7 +13,7 @@ author: oleksandrilchuk
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://i2.wp.com/escxtra.com/wp-content/uploads/onuka.jpg?fit=1240%2C697&ssl=1)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://play.google.com/store/apps/details?id=dev.ilchuk.vidlik). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
