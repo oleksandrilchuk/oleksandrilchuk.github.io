@@ -3,7 +3,7 @@ title: "Vidlik - Timer With Handwritten Input"
 layout: post
 date: 2019-05-15 12:05
 tag: [timer,android,flutter,tensorflow,vidlik]
-image: assets/images/vidlik_logo.png
+image: /assets/images/vidlik_logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
