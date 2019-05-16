@@ -12,7 +12,7 @@ category: project
 author: oleksandrilchuk
 externalLink: false
 ---
-Vidlik is simple and easy to use a timer with handwritten input.
+
 ![Screenshot](/assets/images/vidlik_screen1.jpg)
 ![Screenshot](/assets/images/vidlik_screen2.jpg)
 ![Screenshot](/assets/images/vidlik_screen3.jpg)
