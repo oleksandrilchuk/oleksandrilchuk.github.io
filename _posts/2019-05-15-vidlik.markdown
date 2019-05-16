@@ -12,9 +12,11 @@ category: project
 author: oleksandrilchuk
 externalLink: false
 ---
+Vidlik is simple and easy to use a timer with handwritten input.
 ![Screenshot](/assets/images/vidlik_screen1.jpg)
 ![Screenshot](/assets/images/vidlik_screen2.jpg)
 ![Screenshot](/assets/images/vidlik_screen3.jpg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8HwxOvGkbAo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
-[![Play Store](https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png){: .image-center max-width="250px" }](https://play.google.com/store/apps/details?id=dev.ilchuk.vidlik&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
+[![Play Store](https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png){: .image-center style="max-width: 250px;" }](https://play.google.com/store/apps/details?id=dev.ilchuk.vidlik&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
