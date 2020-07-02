@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.erogames.app",
+    "sha256_cert_fingerprints":
+    ["5D:59:0D:56:88:3A:F9:2C:E1:2F:80:77:75:46:17:B2:5D:4E:6F:17:8F:2E:CB:C0:22:9E:26:3B:CA:E6:23:69"]
+  }
+}]
